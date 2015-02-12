@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ocr_pdf", "ocr_pdf\ocr_pdf.csproj", "{031EEDBB-2166-4E0C-AD1D-B6C072A38E47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{031EEDBB-2166-4E0C-AD1D-B6C072A38E47}.Debug|x86.ActiveCfg = Debug|x86
+		{031EEDBB-2166-4E0C-AD1D-B6C072A38E47}.Debug|x86.Build.0 = Debug|x86
+		{031EEDBB-2166-4E0C-AD1D-B6C072A38E47}.Release|x86.ActiveCfg = Release|x86
+		{031EEDBB-2166-4E0C-AD1D-B6C072A38E47}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

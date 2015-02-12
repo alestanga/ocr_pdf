@@ -38,7 +38,7 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(72, 39);
+            this.button1.Location = new System.Drawing.Point(70, 25);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(154, 57);
             this.button1.TabIndex = 0;
@@ -59,7 +59,7 @@
             // chkbx_delete
             // 
             this.chkbx_delete.AutoSize = true;
-            this.chkbx_delete.Location = new System.Drawing.Point(90, 102);
+            this.chkbx_delete.Location = new System.Drawing.Point(84, 88);
             this.chkbx_delete.Name = "chkbx_delete";
             this.chkbx_delete.Size = new System.Drawing.Size(120, 17);
             this.chkbx_delete.TabIndex = 2;

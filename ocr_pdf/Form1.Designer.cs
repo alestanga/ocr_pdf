@@ -93,6 +93,7 @@
             this.Controls.Add(this.btn_edit_conf);
             this.Controls.Add(this.button1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "OCR file PDF";
             this.Load += new System.EventHandler(this.Form1_Load);
